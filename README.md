@@ -1,2 +1,2 @@
-# -omparatron3000
+# Comparatron3000
 code that compares 2 numbers 
